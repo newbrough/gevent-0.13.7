@@ -303,7 +303,6 @@ if __name__ == '__main__':
             name='gevent',
             version=__version__,
             description='Python network library that uses greenlet and libevent for easy and scalable concurrency',
-            long_description=read('README.rst'),
             author='Denis Bilenko',
             author_email='denis.bilenko@gmail.com',
             url='http://www.gevent.org/',
